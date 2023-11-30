@@ -1,0 +1,23 @@
+{
+  "name": "juejin-node-getting-started-tutorial",
+  "version": "1.0.0",
+  "description": "https://juejin.cn/book/7304230207953567755?utm_source=course_list nodejs入门教程",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fendouxiaohaier/juejin-node-getting-started-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fendouxiaohaier/juejin-node-getting-started-tutorial/issues"
+  },
+  "homepage": "https://github.com/fendouxiaohaier/juejin-node-getting-started-tutorial#readme",
+  "dependencies": {
+    "@types/node": "^20.10.1"
+  }
+}
