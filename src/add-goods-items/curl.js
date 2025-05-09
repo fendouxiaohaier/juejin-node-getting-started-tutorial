@@ -1,0 +1,19 @@
+curl 'http://localhost:3000/api/v1/promotion/activity/add-items' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Accept-Language: zh-CN,zh;q=0.9' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/json' \
+  -b '_lxsdk_cuid=18fcc866567c8-05b8771a006647-1a525637-1fa400-18fcc866567c8; _lxsdk=18fcc866567c8-05b8771a006647-1a525637-1fa400-18fcc866567c8; _lxsdk_s=19582f07758-092-9a1-2e1%7C%7C11; JSESSIONID=16p613byv5gjr1mi0tvqxkw0r3; webNewUuid=1362744251c33ab35649fd5ab1b6496f_1745397618968; wmempid=60472463; WEBDFPID=x8x2284823v55z091uwu5yz0u2vuvy718042u2uz9v05795839912578-1745810508869-1741600822544MQGCYIQ75613c134b6a252faa6802015be905511551; token=eAGFjyFLREEUhR0sq0HEbHjBIBtk586dOzM2TUbBBcEi9867YxB2wxMsmzYaVIxicZPNun_Df6DFRUUQDGLzGcy2U77zndMxyxffr6vV-9fnwwxgUXsgNaly3Kwoa_LFAZUYMCizA-6Kj4quZ7PF7XuzsrCvspd1oKNq8nHz8gbrBv4F469y5_ZxejeD3cun6fkzjM3clen8lV2bDesIAiJ4m51jcZ4wldqzWGkTlUMb0LsUyMZEcWLWTlVG7WLpEWfvrCJIiIlFo1KLlYgSDyqlwMFisdIF9DVGSIkQ6uDbV8g8NktHerKVszZNf3isgzMz3zTDH10RXaI**eAENyEkRADAIBDBLlAHKyuH0L6H9ZWK-kpplMNOVmuv65cwWsCKmwB0lKTRyICfbO3V_nQ48KJkRRw**VA2TF-rVkgptasWQMLFwQ6IEytQg4m1qzxFHZz6zP70v56p33uO8RViU0I9snFV2cO4d13BFXB3tz-Q2tlHoeg**NjA0NzI0NjMsaHVhbmd5YW5sb25nMDIs6buE5b2m6b6ZLGh1YW5neWFubG9uZzAyQHRlc3QuY29tLDEsMzQwNDcxNDYsMTc0NTgwNzUzOTE4MQ; shangou_yunying_token=eAGFjyFLREEUhR0sq0HEbHjBIBtk586dOzM2TUbBBcEi9867YxB2wxMsmzYaVIxicZPNun_Df6DFRUUQDGLzGcy2U77zndMxyxffr6vV-9fnwwxgUXsgNaly3Kwoa_LFAZUYMCizA-6Kj4quZ7PF7XuzsrCvspd1oKNq8nHz8gbrBv4F469y5_ZxejeD3cun6fkzjM3clen8lV2bDesIAiJ4m51jcZ4wldqzWGkTlUMb0LsUyMZEcWLWTlVG7WLpEWfvrCJIiIlFo1KLlYgSDyqlwMFisdIF9DVGSIkQ6uDbV8g8NktHerKVszZNf3isgzMz3zTDH10RXaI**eAENyEkRADAIBDBLlAHKyuH0L6H9ZWK-kpplMNOVmuv65cwWsCKmwB0lKTRyICfbO3V_nQ48KJkRRw**VA2TF-rVkgptasWQMLFwQ6IEytQg4m1qzxFHZz6zP70v56p33uO8RViU0I9snFV2cO4d13BFXB3tz-Q2tlHoeg**NjA0NzI0NjMsaHVhbmd5YW5sb25nMDIs6buE5b2m6b6ZLGh1YW5neWFubG9uZzAyQHRlc3QuY29tLDEsMzQwNDcxNDYsMTc0NTgwNzUzOTE4MQ; ssoid=eAGFjyFLREEUhR0sq0HEbHjBIBtk586dOzM2TUbBBcEi9867YxB2wxMsmzYaVIxicZPNun_Df6DFRUUQDGLzGcy2U77zndMxyxffr6vV-9fnwwxgUXsgNaly3Kwoa_LFAZUYMCizA-6Kj4quZ7PF7XuzsrCvspd1oKNq8nHz8gbrBv4F469y5_ZxejeD3cun6fkzjM3clen8lV2bDesIAiJ4m51jcZ4wldqzWGkTlUMb0LsUyMZEcWLWTlVG7WLpEWfvrCJIiIlFo1KLlYgSDyqlwMFisdIF9DVGSIkQ6uDbV8g8NktHerKVszZNf3isgzMz3zTDH10RXaI**eAENyEkRADAIBDBLlAHKyuH0L6H9ZWK-kpplMNOVmuv65cwWsCKmwB0lKTRyICfbO3V_nQ48KJkRRw**VA2TF-rVkgptasWQMLFwQ6IEytQg4m1qzxFHZz6zP70v56p33uO8RViU0I9snFV2cO4d13BFXB3tz-Q2tlHoeg**NjA0NzI0NjMsaHVhbmd5YW5sb25nMDIs6buE5b2m6b6ZLGh1YW5neWFubG9uZzAyQHRlc3QuY29tLDEsMzQwNDcxNDYsMTc0NTgwNzUzOTE4MQ; logan_session_token=5yemcu744bpl5jcg0o1m; _app_id=3; _biz_app_id=2; _et=ZYGLvzWUsejvN7dQtfWEYZ_CY8csiPF59y-atLYfqPDEECQlp5vlyBn6SSScvm66-tRj5YlYD86dPX_ZTDEFoA; _qnh_tenant_id=1010327; _qnh_account_id=97104' \
+  -H 'Origin: http://localhost:3000' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://localhost:3000/home.html' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36' \
+  -H 'qnhReferrer: /saasPromotion/activity/x_discount/create' \
+  -H 'sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  --data-raw '{"promotionId":"SP00000362065","itemListData":[{"skuId":"1751943556613840962","upcCodes":["20652766123"],"spec":"2粒装800-950g","minPrice":55,"maxPrice":55,"rangePurchasePriceVo":null,"suit":true,"erpRelInfoList":[{"erpCode":"20652766","erpUpc":"20652766"},{"erpCode":"20652763","erpUpc":"20652763"}],"spuId":"1751943556609646691","upc":"20652766123","specType":1,"name":"wy套装单规格测试1","sourceType":"ONLINE","erpCodeList":["20652766","20652763"]}]}'
