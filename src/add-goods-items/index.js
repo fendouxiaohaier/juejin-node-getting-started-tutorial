@@ -37,7 +37,7 @@ function generateItems(count) {
 
 // 构造并执行curl命令
 function executeCurl() {
-  const items = generateItems(3000);
+  const items = generateItems(100);
   console.log('打印日志看看-items:', items)
   const data = {
     promotionId: "SP00000362065",

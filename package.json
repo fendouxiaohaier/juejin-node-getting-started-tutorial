@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/fendouxiaohaier/juejin-node-getting-started-tutorial#readme",
   "dependencies": {
-    "@types/node": "^20.10.1"
+    "@types/node": "^20.10.1",
+    "xlsx": "^0.18.5"
   }
 }
